@@ -1,0 +1,22 @@
+# Ignore all the big course/project folders you showed
+03.Project 1 - Web Scraping with Pandas/
+04.Filtering Data/
+05.Data Extraction/
+06.Pivot Table/
+07.Project 2 - Data Visualization/
+08.GroupBy and Aggregate Function/
+09.Merging and Concatenating DataFrames/
+10.Regular Expressions/
+11.Project 3 - Data Cleaning/
+12.Machine Learning/
+13.Project 4 - Text Classification/
+
+# Also ignore common junk (recommended)
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
